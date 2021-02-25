@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    font-family:"arial";
+    font-weight: bolder;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+p {
+    text-align: center; 
+    font-family:"arial";
+    text-justify: auto;
+}
+
+a {
+    text-align: center; 
+    font-family:"arial";
+}
+
+div {
+    text-align: left;
+}
+
+h3 {
+    font-family:"arial";
+    font-weight: bolder;
+}
+
+li {
+    font-family:"arial";
+}
+
+b {
+    font-family:"arial";
+}
+
+address {
+    padding-top: 10px;
+    color: gray;
+    opacity: 30;
+    font-variant: small-caps;
+}
+
+.pageFooter {
+    padding: 10px;
+    font-size: small;
+}
+
+.pageNav {
+    font-style: italic;
+    padding: 100px;
+    background-color:#d3d3d3;
+}
